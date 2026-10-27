@@ -16,7 +16,9 @@ This data file contains information collected from manufacturers that report tra
 •	Year: data was collected annually from 2006 to 2025
 
 PROJECT FILES:
+
 [Dataset](./World%20Bank%20Data%201.pdf)
+
 [Power BI Dashboard](./MasonMichele%20TermProject.pbix)
 
 
