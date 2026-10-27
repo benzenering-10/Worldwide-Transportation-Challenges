@@ -14,7 +14,9 @@ This data file contains information collected from manufacturers that report tra
 •	Manufacturer’s Business Sector: the industry sector was provided both per individual manufacturing sector and an all-inclusive sector reporting number
 •	Percent: percentage of firms choosing transportation as their biggest obstacle by sector
 •	Year: data was collected annually from 2006 to 2025
-World Bank Data 1.pdf
+
+<img width="4032" height="609" alt="image" src="https://github.com/user-attachments/assets/5ca59284-d9c2-49a1-aa51-f26cf663593f" />
+
 
 <img width="1483" height="808" alt="image" src="https://github.com/user-attachments/assets/aa57757d-3574-4804-b692-787f11c85bd8" />
 
