@@ -15,7 +15,9 @@ This data file contains information collected from manufacturers that report tra
 •	Percent: percentage of firms choosing transportation as their biggest obstacle by sector
 •	Year: data was collected annually from 2006 to 2025
 
-<img width="4032" height="1512" alt="image" src="https://github.com/user-attachments/assets/2071f68b-3ea8-4084-a1f6-e1f8f7bf88b8" />
+PROJECT FILES:
+<img width="3316" height="2268" alt="image" src="https://github.com/user-attachments/assets/1c4d2520-6c83-4d23-bd49-3cc9c9b9a635" />
+
 
 
 
