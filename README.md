@@ -44,3 +44,5 @@ DASHBOARD SCREENSHOTS:
 
 <img width="1184" height="772" alt="image" src="https://github.com/user-attachments/assets/88a29ea0-b00c-4b9c-927c-aa03346c57c0" />
 
+
+KEY FINDINGS:
