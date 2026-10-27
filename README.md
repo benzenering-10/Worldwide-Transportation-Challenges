@@ -10,9 +10,13 @@ POSSIBLE QUESTIONS:
 DATASET DESCRIPTION:  
 The accompanying dataset was downloaded from the World Bank website. The metadata for the information collected was also available in PDF and was provided.  
 This data file contains information collected from manufacturers that report transportation as their biggest obstacle/ challenge.  Variables in the dataset include:
+
 •	Country: manufacturer business location, denoted by country
+
 •	Manufacturer’s Business Sector: the industry sector was provided both per individual manufacturing sector and an all-inclusive sector reporting number
+
 •	Percent: percentage of firms choosing transportation as their biggest obstacle by sector
+
 •	Year: data was collected annually from 2006 to 2025
 
 PROJECT FILES:
@@ -45,4 +49,5 @@ DASHBOARD SCREENSHOTS:
 <img width="1184" height="772" alt="image" src="https://github.com/user-attachments/assets/88a29ea0-b00c-4b9c-927c-aa03346c57c0" />
 
 
-KEY FINDINGS:
+
+KEY FINDINGS AND RECOMMENDATIONS:
