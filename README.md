@@ -8,7 +8,7 @@ POSSIBLE QUESTIONS:
 4.	Is there a regional difference that could point out the reason this is a bigger/ smaller obstacle in some countries relative to others?
 
 DATASET DESCRIPTION:  
-The accompanying dataset was downloaded from the World Bank website World Bank Open Data | Data. The metadata for the information collected was also available in PDF and was provided.  
+The accompanying dataset was downloaded from the World Bank website. The metadata for the information collected was also available in PDF and was provided.  
 This data file contains information collected from manufacturers that report transportation as their biggest obstacle/ challenge.  Variables in the dataset include:
 •	Country: manufacturer business location, denoted by country
 •	Manufacturer’s Business Sector: the industry sector was provided both per individual manufacturing sector and an all-inclusive sector reporting number
@@ -19,11 +19,16 @@ PROJECT FILES:
 
 [Dataset](./World%20Bank%20Data%201.pdf)
 
+[Metadata](./WB_ES_M_OBST15.pdf)
+
+
+INTERACTIVE DASHBOARD:
+
 [Power BI Dashboard](./MasonMichele%20TermProject.pbix)
 
 
 
-
+DASHBOARD SCREENSHOTS:
 
 <img width="1483" height="808" alt="image" src="https://github.com/user-attachments/assets/aa57757d-3574-4804-b692-787f11c85bd8" />
 
